@@ -1,0 +1,2 @@
+# Movie-Tickets-Automation-Python
+I had a movie date, and it was a new release, I just couldn't get my hands on the ticket, maybe I was too lazy to check the website for availability, but this was embrassing me, and so I took a cup of coffee, sat down, and built this, automatic Movie ticket availablity checker, well why not, we are problem solvers, and thereafter, I have always got the first show tickets of whichever movie I want. 
